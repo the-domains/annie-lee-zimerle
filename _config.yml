@@ -1,0 +1,28 @@
+name: Annie Lee-Zimerle
+favicon: null
+layout_spectrum: 0.36226858384907246
+typography_spectrum: 0.7789381195325404
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.21953541971743107
+  lightness: 0.30771589069627225
+  saturation: 0.04898695065639913
+  rhythmicContrast: 0.2069110970478505
+purpose: []
